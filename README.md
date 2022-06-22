@@ -28,9 +28,8 @@ I have referred from the following websites:
 
 ^^^^^^^^^^^
 https://fastapi.tiangolo.com/
-~~~~~~~~~~~
 
-^^^^^^^^^^^
+^^^^^^^^^^^^
 https://developer.mapquest.com/documentation/geocoding-api
 ~~~~~~~~~~~
 
